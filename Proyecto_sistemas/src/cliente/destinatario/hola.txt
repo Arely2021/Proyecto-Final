@@ -1,0 +1,2 @@
+Hola a todo el mundo.
+Este es el archivo de texto que se enviará por los nodos.
